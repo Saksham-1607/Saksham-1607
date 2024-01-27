@@ -31,8 +31,8 @@ My GitHub profile is a work in progress, and I have a few goals in mind:
 ## Get in Touch
 I'm always eager to connect with fellow developers, learn from their experiences, and grow together. Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat. Here is my some handles -
 - 📧 Email: sakshamdubey022@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/saksham-dubey-6b6319285
-- 🐦 Twitter: @Saksham42647241 (https://twitter.com/Saksham42647241)
+- 💬 LinkedIn: https://www.linkedin.com/in/Saksham1607
+- 🐦 Twitter: https://twitter.com/Saksham1607
 - !! Instagram: @_saksham.16 (https://instagram.com/_saksham.16)
 
 ## Support
